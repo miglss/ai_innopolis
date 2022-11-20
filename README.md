@@ -4,3 +4,5 @@ ___
 Репозиторий содержит в себе следующие файлы:
 
  [final-sub-inno.ipynb](https://github.com/miglss/ai_innopolis/blob/main/final-sub-inno.ipynb) - ноутбук с предобработкой данных, обучением модели и получением прогнозов
+ 
+ [optuna.ipynb](https://github.com/miglss/ai_innopolis/blob/main/optuna.ipynb) - код, с помощью которого подбирались итоговые гиперпараметры модели (требует той же предобработки данных, как в **final-sub-inno.ipynb**)
